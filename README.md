@@ -19,3 +19,6 @@
 
 ### Deploy Adress
 https://finderproject.herokuapp.com/login/login
+
+  #### Login/Password
+  admin2 1008
